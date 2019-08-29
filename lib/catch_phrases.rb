@@ -10,4 +10,6 @@ def toadstool
 end
 
 def link
-  catch = ""
+  catch = "It's Dangerous To Go Alone! Take This."
+  puts catch
+end
