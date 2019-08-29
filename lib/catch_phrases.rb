@@ -9,4 +9,3 @@ def toadstool
   puts mario(status)
 end
 
-mario
